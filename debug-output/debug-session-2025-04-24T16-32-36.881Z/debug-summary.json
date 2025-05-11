@@ -1,0 +1,12 @@
+{
+  "communityId": "1472105760389668865",
+  "days": 3,
+  "minTweets": 10,
+  "pagesRequested": 10,
+  "emptyPages": 0,
+  "totalTweetsFound": 200,
+  "filteredOutTweets": 194,
+  "finalTweetCount": 6,
+  "executionTimeMs": 95480,
+  "timestamp": "2025-04-24T16:34:12.362Z"
+}
