@@ -2,6 +2,8 @@
 
 Analyze X (Twitter) communities and get recent trends.
 
+<img src="demo-new.gif" alt="Video Demo" width="700"/>
+
 ## Setup
 
 1. Clone the repository
